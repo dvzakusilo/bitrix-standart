@@ -104,4 +104,5 @@ gen
 .settings_extra.php
 license_key.php
 php_interface/dbconn.php
+modules/main/include.php
 
