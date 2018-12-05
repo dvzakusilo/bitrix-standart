@@ -98,6 +98,8 @@ out
 gen
 
 # Custom
+*.log*
+*.xml*
 *cache/
 
 .settings.php
@@ -105,4 +107,5 @@ gen
 license_key.php
 php_interface/dbconn.php
 modules/main/include.php
+themes/.default/modules.css
 
